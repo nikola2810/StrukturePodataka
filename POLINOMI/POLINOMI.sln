@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POLINOMI", "POLINOMI.vcxproj", "{DED64C76-54CE-45B4-87FF-699482454FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Debug|x64.ActiveCfg = Debug|x64
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Debug|x64.Build.0 = Debug|x64
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Debug|x86.Build.0 = Debug|Win32
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Release|x64.ActiveCfg = Release|x64
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Release|x64.Build.0 = Release|x64
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Release|x86.ActiveCfg = Release|Win32
+		{DED64C76-54CE-45B4-87FF-699482454FBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFE05E9-598A-4B63-9D6B-A754817EFD67}
+	EndGlobalSection
+EndGlobal
